@@ -1,0 +1,12 @@
+                         The difference between Experience Based Testing and Formal Testing
+1. Experience-Based Testing
+- Relies on the tester's experience, intuition, and knowledge of the system.
+- Informal approach, no strict documentation or planning.
+- Testers use their expertise to identify potential issues and create test scenarios.
+- Focuses on exploratory testing, where testers explore the system without pre-conceived notions.
+
+2. Formal Testing
+- Structured approach, following a predefined plan and documentation.
+- Testing is based on documented requirements, specifications, and test cases.
+- Testers follow a set of predefined steps to validate the system's functionality.
+- Focuses on verifying the system's functionality against specified requirements.
