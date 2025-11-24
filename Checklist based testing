@@ -1,0 +1,5 @@
+                                 Explain about checklist based testing.
+Checklist-Based Testing is a testing approach where testers use a predefined list of items or scenarios to verify the system's functionality. This checklist serves as a guide to ensure that all necessary aspects of the system are tested.
+  Predefined Checklist: A list of items or scenarios to be tested, based on requirements, specifications, or past experiences.
+  Structured Approach: Testers follow the checklist to ensure thorough testing.
+  Verification: Testers verify each item on the checklist, marking it as pass or fail.
